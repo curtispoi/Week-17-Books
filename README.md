@@ -1,8 +1,8 @@
-## Library Catalog
+## Books Catalog
 ##### Title:
-  Library Catalog
+  Books Catalog
 ### Description: 
-  This project uses react and JSON to present a library catalog of coding books
+  This project uses react and JSON to present a catalog of coding books
 
 ##### How to Run: 
   download repository and launch server from directory
